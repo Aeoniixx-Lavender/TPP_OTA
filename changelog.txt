@@ -4,3 +4,6 @@
 > Maintainer: Aeoniixx
   
 > Device Specific Changelog:
+# v1.3 [15/10/24]
+- October security patch
+- Update San Kernel R1.1.103
