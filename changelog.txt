@@ -1,0 +1,6 @@
+> Rom: The Pixel Project
+> Build Type: Unofficial 
+> Device: Redmi Note 7 (Lavender)
+> Maintainer: Aeoniixx
+  
+> Device Specific Changelog:
